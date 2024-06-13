@@ -338,7 +338,7 @@ p{
     padding: 98px;
     list-style: none;
     overflow-y: hidden; /* Prevent vertical scrolling */
-    background-image: url(/images/Catbg.png); /* Ensure the path is correct */
+    background-image: url(../images/Catbg.png); /* Ensure the path is correct */
     background-size: cover; /* Make sure the background image covers the entire area */
     background-position: center center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background image from repeating */
@@ -1222,7 +1222,7 @@ iframe {
 /* דף רופאים */
 .doctors-med-section{
     padding-top: 10%;
-    /* background-image: url(/images/DocMedBG.png); */
+    /* background-image: url(../images/DocMedBG.png); */
     background-position-y: 67%;
     background-size: 101%;
     background-position-x: 34%;
@@ -1243,7 +1243,7 @@ iframe {
     flex-direction: row;
     padding-left: 0;
     background-color: #EFFBFF;
-    /* background-image: url(/images/doctorCat-bg.png); */
+    /* background-image: url(../images/doctorCat-bg.png); */
     background-position-y: 0%;
     background-size: 61%;
     background-position-x: -51%;
@@ -1365,7 +1365,7 @@ margin-top: 0%;
 
     .doctors-med-section{
         padding-top: 10%;
-        background-image: url(/images/DocMedBG.png);
+        background-image: url(../images/DocMedBG.png);
         background-position-y: 49%;
         background-size: 252%;
         background-position-x: 34%;
@@ -1702,7 +1702,7 @@ margin-top: 0%;
     padding-bottom: 14%;
     /* background-color: #EFFBFF; */
     padding-top: 10%;
-    background-image: url(images/reserch-bg-2.png);
+    background-image: url(../images/reserch-bg-2.png);
     background-position-y: 26%;
     background-size: 116%;
     background-position-x: 47%;
@@ -1849,7 +1849,7 @@ padding-bottom: 8%;
     flex-direction: row;
     padding-left: 0;
   
-    background-image: url(/images/researchBT.png);
+    background-image: url(../images/researchBT.png);
     background-position-y: 61%;
     background-size: 169%;
     background-position-x: 47%;
@@ -1937,7 +1937,7 @@ padding-bottom: 8%;
     /* margin-bottom: -151%; */
     /* height: 200px; */
       
-    background-image: url(/images/reserch-bg-2.png);
+    background-image: url(../images/reserch-bg-2.png);
     background-position-y: -71%;
     background-size: 110%;
     background-position-x: 96%;
@@ -1945,7 +1945,7 @@ padding-bottom: 8%;
 }
 
 .flex-container-opening-doc-research p {
-    background-image: url(/images/reserch-bg-2.png);
+    background-image: url(../images/reserch-bg-2.png);
     background-position-y: -71%;
     background-size: 110%;
     background-position-x: 96%;
@@ -2136,7 +2136,7 @@ color: #751DD5;
 
 
 .kids-forparents-section{
-    background-image: url(/images/kids-bg.png);
+    background-image: url(../images/kids-bg.png);
     background-size: 83%;
     background-position-x: -61%;
     background-repeat: no-repeat;
@@ -2246,7 +2246,7 @@ color: #751DD5;
     }
 
     .kids-forparents-section{
-     background-image: url(/images/kids-bg.png);
+     background-image: url(../images/kids-bg.png);
     background-size:95%;
     padding: 0%;
     background-position-x: -188%;
@@ -2339,7 +2339,7 @@ margin: 3%;
 
 
 .traveler-opening-section{
-    background-image: url(/images/travel-infp-bg.png);
+    background-image: url(../images/travel-infp-bg.png);
     background-position-y: 37%;
     background-size: 111%;
     padding: 7%;

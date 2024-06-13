@@ -803,7 +803,13 @@ p{
   
 
 /* במלצות מהעולם */
+.hotspot {
+    transition: transform 0.3s ease; /* Smooth transition for the scale effect */
+}
 
+.hotspot:hover {
+    transform: scale(2.1); /* Enlarge the image by 10% */
+}
 
 .map-container {
     position: relative;

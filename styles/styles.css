@@ -808,6 +808,8 @@ p{
 }
 
 .hotspot:hover {
+        cursor: pointer;
+
     transform: scale(2.1); /* Enlarge the image by 10% */
 }
 

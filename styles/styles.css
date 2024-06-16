@@ -1889,16 +1889,16 @@ padding-bottom: 8%;
     border-radius: 15%;
     border: none;
     color: white;
-    padding: 24px 57px;
+
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    padding: 6px 25px;
     left: 4%;
-    /* margin-left: 5%; */
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1.5rem;
-    border-radius: 34px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-size: 1rem;
+    border-radius: 12px;
 }
 
 .button-link button:hover {

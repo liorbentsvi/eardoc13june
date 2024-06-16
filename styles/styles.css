@@ -931,6 +931,7 @@ iframe {
 .fda-icon img {
     display: inline-block;
     vertical-align: middle;
+    width: 22%;
 }
 
 .centered {

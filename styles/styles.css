@@ -823,8 +823,8 @@ p{
 }
 
 .map {
-    width: 1500%; /* Adjust the width as needed */
-    max-width: 1500px; /* Set maximum width for better viewing experience */
+    width: 1500%; 
+    max-width: 1100px; 
 }
 
 .hotspot {

@@ -957,9 +957,12 @@ iframe {
 }
 
 .web-icon {
+
+
     position: absolute;
-    right: 16%;
-    transform: translateY(-37%);
+    right: 25%;
+    transform: translateY(-92%);
+    width: 9%;
 }
 
 @media (max-width: 600px){

@@ -951,9 +951,9 @@ iframe {
 
 
 
-.text h2,
-.text .button-link {
+.button-link {
     margin: 0; /* Remove default margin */
+    margin: -24px;
 }
 
 .web-icon {
